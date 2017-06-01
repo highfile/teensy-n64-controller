@@ -37,8 +37,6 @@ struct state{
 } N64_status;
 char N64_raw_dump[33]; // 1 received bit per byte
 
-#include "crc_table.h"
-
 void setup()
 {
   Serial.begin(115200);
