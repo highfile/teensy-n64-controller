@@ -10,9 +10,9 @@
  */
 
 /**
- * To use, hook up the following to the Arduino Duemilanove:
+ * To use, hook up the following to the Teensy 2.0
  * Digital I/O 2: N64 serial line
- * All appropriate grounding and power lines
+ * Ground and power lines
  */
 
 //#include "pins_arduino.h"
